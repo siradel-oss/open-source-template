@@ -4,7 +4,7 @@
 # Siradel Open Source Template
 
 <!-- TODO Add a short description of the project here -->
-Template repository for open source projects at Siradel.
+*Template repository for open source projects at Siradel*
 
 </div>
 
