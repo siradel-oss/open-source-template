@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- TODO Change the project name here-->
+<!-- TODO Change the project name here, maybe include a logo -->
 # Siradel Open Source Template
 
 <!-- TODO Add a short description of the project here -->
@@ -15,9 +15,10 @@
 1. Create a new repository using this template, or import the files from this template into an existing repository.
 2. Address all `TODO`s in the files of this repository, including:
    - `README.md`
-   - `CONTRIBUTING.md`
    - `.github/CODEOWNERS`
-3. Review and customize the following files as needed:
+3. Review the following files from the [.github repository](https://github.com/siradel-oss/.github). If you want to customize them, copy them to this new repository and edit them as needed.
+   - `CONTRIBUTING.md`
+   - `CODE_OF_CONDUCT.md`
    - `.github/ISSUE_TEMPLATE/*`
    - `.github/pull_request_template.md`
 4. Customize the license files using your copyright notice, or include your own license.
