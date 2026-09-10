@@ -1,1 +1,1 @@
-See the [organization contributing guidelines](https://github.com/siradel-oss/.github/blob/main/CONTRIBUTING.md).
+See the [organization contributing guide](https://github.com/siradel-oss/.github/blob/main/CONTRIBUTING.md).

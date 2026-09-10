@@ -32,7 +32,17 @@ By contributing to this project, you agree to abide by the terms outlined in our
 
 ## License
 
-This contribution is dual licensed under EITHER OF
+<!-- TODO Choose a license (deleting unused license files) -->
+
+This project is licensed under the Apache License, Version 2.0, ([LICENSE-Apache-2.0](LICENSE-Apache-2.0) or http://www.apache.org/licenses/LICENSE-2.0).
+
+<!-- OR -->
+
+This project is licensed under the MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT).
+
+<!-- OR -->
+
+This project is dual licensed under EITHER OF
 
 - Apache License, Version 2.0, ([LICENSE-Apache-2.0](LICENSE-Apache-2.0) or http://www.apache.org/licenses/LICENSE-2.0)
 - MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
